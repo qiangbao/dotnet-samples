@@ -7,7 +7,7 @@ files) and a compiled binary of your application. You can develop in Visual Stud
 
 ### isPangram.exe
 
-This app should determine whether a sentence is a pangram.
+This program should determine whether a sentence is a pangram.
 
     > ./isPangram.exe the quick brown fox jumps over the lazy dog
     > Yes
@@ -22,7 +22,7 @@ etc.
 
 ### sortWords.exe
 
-This app should sort a sentence's words by their length and output a new "sentence" with the words arranged in order.
+This program should sort a sentence's words by their length and output a new "sentence" with the words arranged in order.
 
     > sortWords.exe the quick brown fox jumps over the lazy dog
     > the fox the dog over lazy quick brown jumps
