@@ -1,6 +1,6 @@
 # Instructions
 
-Create a web service with the following endpoint. You may use any web framework you are comfortable with. You 
+Create a ReST-based web service with the following endpoint. You may use any web framework you are comfortable with. You 
 will also need to setup a local Mongo database. You can develop in Visual Studio or Xamarin Studio.
 
 ------
