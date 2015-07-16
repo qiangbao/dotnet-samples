@@ -1,0 +1,5 @@
+c:\users\bao qiang\documents\visual studio 2013\Projects\isPangram\isPangram\bin\Debug\isPangram.exe.config
+c:\users\bao qiang\documents\visual studio 2013\Projects\isPangram\isPangram\bin\Debug\isPangram.exe
+c:\users\bao qiang\documents\visual studio 2013\Projects\isPangram\isPangram\bin\Debug\isPangram.pdb
+c:\users\bao qiang\documents\visual studio 2013\Projects\isPangram\isPangram\obj\Debug\isPangram.exe
+c:\users\bao qiang\documents\visual studio 2013\Projects\isPangram\isPangram\obj\Debug\isPangram.pdb

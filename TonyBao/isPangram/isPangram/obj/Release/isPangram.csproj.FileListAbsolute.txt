@@ -1,0 +1,6 @@
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\isPangram\bin\Release\isPangram.exe.config
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\isPangram\bin\Release\isPangram.exe
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\isPangram\bin\Release\isPangram.pdb
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\isPangram\obj\Release\isPangram.csprojResolveAssemblyReference.cache
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\isPangram\obj\Release\isPangram.exe
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\isPangram\obj\Release\isPangram.pdb

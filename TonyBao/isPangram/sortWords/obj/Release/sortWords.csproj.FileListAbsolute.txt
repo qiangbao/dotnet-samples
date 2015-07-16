@@ -1,0 +1,6 @@
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\sortWords\bin\Release\sortWords.exe.config
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\sortWords\bin\Release\sortWords.exe
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\sortWords\bin\Release\sortWords.pdb
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\sortWords\obj\Release\sortWords.csprojResolveAssemblyReference.cache
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\sortWords\obj\Release\sortWords.exe
+C:\Users\Bao Qiang\documents\visual studio 2013\Projects\isPangram\sortWords\obj\Release\sortWords.pdb
