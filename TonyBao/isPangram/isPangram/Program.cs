@@ -17,7 +17,7 @@ namespace isPangram
                 .Where(ch => Char.IsLetter(ch))
                 .GroupBy(ch => ch)
                 .Count();
-
+            //this is test for VS using Git
             Console.Write(count == 26 ? "Yes" : "No");
         }
     }
